@@ -1,0 +1,16 @@
+{
+  "name": "simple-calc",
+  "version": "1.0.0",
+  "description": "Simple calculator built using module export",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "keywords": [
+    "express",
+    "node",
+    "calculator"
+  ],
+  "author": "th3qui85ly",
+  "license": "ISC"
+}
